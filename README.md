@@ -1,4 +1,4 @@
-# Golem Token
+# Omnichain Fungible Token
 
 This repository contains the source code of OFT Adapter for Token. The initial token contract was deployed on Ethereum, with LayerZero-powered OFTs on other networks.
 
